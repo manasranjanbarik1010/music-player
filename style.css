@@ -1,0 +1,38 @@
+body {
+    background-color: black !important;
+    color: white;
+  }
+  
+  #progress-bar,
+  #volume {
+    width: 100%;
+  }
+  
+  #playlist {
+    max-height: 150px;
+    overflow-y: auto;
+  }
+  
+  #playlist li {
+    cursor: pointer;
+  }
+  
+  #playlist li:hover {
+    background-color: darkslategray;
+  }
+  
+  .container {
+    background-color: dimgray;
+  }
+  
+  button.btn {
+    background-color: transparent;
+    color: white;
+    border-color: white;
+  }
+  
+  button.btn:hover {
+    background-color: lightgray;
+    color: black;
+  }
+  
