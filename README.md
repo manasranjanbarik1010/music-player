@@ -72,3 +72,7 @@ This project is for educational purposes. Feel free to use and modify it!
 ## 🙌 Acknowledgements
 
 Built as part of a web development learning project.
+
+## 🔥 Live Demo
+[Click here to try the music player](https://manasranjanbarik1010.github.io/music-player/)
+
